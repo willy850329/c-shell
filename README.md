@@ -1,7 +1,7 @@
 # C Shell
 This is a C shell operating in linux bash, contains the following functions:
 1. Outer command such as ls, firefox, etc.
-2. Directory manage functiions such as cd, dirs, pishd, popd
+2. Directory manage functiions such as cd, dirs, push, pop
 3. history
 4. !string, !!
 5. wildcard
