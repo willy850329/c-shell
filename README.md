@@ -21,3 +21,6 @@ This is a C shell operating in linux bash, contains the following functions:
 10. Make a child process
 11. Execute args 
 12. Go back to 1.
+
+
+********** For more information, please refer to the pdf file ***************************
